@@ -5,7 +5,9 @@
 ## 大赛规则
 
 ### 反996参赛项目列表
-
+[955.ICU](https://github.com/996icu/996.ICU) 996.ICU是指“工作996，生病ICU”。这是中国程序员之间的一种自嘲说法，意思是如果按照996的模式工作，那以后就得进ICU了。
+[955.holiday](https://github.com/955holiday/955.holiday) 倡导955工作制，每天工作8小时，周工作时间为40小时。
+[996.TSC](https://github.com/lxlxw/996.TSC) 996.ICU周边文化。
 [955.WLB](https://github.com/formulahendry/955.WLB) 955 公司白名单，旨在让更多的人逃离 996，加入 955 的行列。
 
 [996.LIST](https://github.com/fengT-T/996_list) 此 repo 为 996 和 955 的匿名投票列表。
