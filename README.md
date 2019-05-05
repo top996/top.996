@@ -52,7 +52,7 @@
 
 ### 投票地址
 
-[投票地址]（http://62c2ef0351301aee.v.wxtpb.com）
+[投票地址](http://62c2ef0351301aee.v.wxtpb.com)
 
 或扫描以下二维码进入
 
