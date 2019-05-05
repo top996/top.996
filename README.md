@@ -12,11 +12,12 @@
   
   4、获奖项目将得到对应项目发展基金，一等奖人民币5000元，二等奖人民币3000元，三等奖人民币1000元，四到六名纪念奖人民币300元。
   
-  5、前三名可将获奖勋章加入到项目首页。
+  5、前三名可将获奖[徽章](https://github.com/top996/top.996/blob/master/badge.md)加入到项目首页。
   
-  6、任何问题，请联系邮件top996@protonmail.com。
+  6、参赛项目请在项目首页添加参赛[徽章](https://github.com/top996/top.996/blob/master/badge.md)
   
-
+  7、任何问题，请联系邮件top996@protonmail.com。
+  
 ### 反996参赛项目列表
 [996.ICU](https://github.com/996icu/996.ICU) 996.ICU是指“工作996，生病ICU”。这是中国程序员之间的一种自嘲说法，意思是如果按照996的模式工作，那以后就得进ICU了。
 
