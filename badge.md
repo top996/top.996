@@ -8,4 +8,5 @@
 [![top.996](https://img.shields.io/badge/link-top.996-red.svg)](https://github.com/top996/top.996)
 ```
 
-# 冠军徽章
+# 大赛前三名徽章
+冠军，[![top.996](https://img.shields.io/badge/top.996-champion-yellow.svg)](https://github.com/top996/top.996)
