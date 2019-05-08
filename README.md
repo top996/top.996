@@ -60,7 +60,7 @@
 ![Image text](https://github.com/top996/top.996/blob/master/qrcode.png)
 
 
-### 实时赛果（截止2019年5月5日）
+### 实时赛果（截止2019年5月8日）
 
 <img src="https://github.com/top996/top.996/blob/master/top.jpg" width="330px" height="450px"></img>
 
