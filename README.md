@@ -18,6 +18,9 @@
   
   7、任何问题，请联系邮件top996@protonmail.com。
   
+### 参赛项目站长请加入站长群
+<img src="https://github.com/top996/top.996/blob/master/group.jpg" width="300px" height="300px"></img>
+  
 ### 反996参赛项目列表
 [996.ICU](https://github.com/996icu/996.ICU) 996.ICU是指“工作996，生病ICU”。这是中国程序员之间的一种自嘲说法，意思是如果按照996的模式工作，那以后就得进ICU了。
 
@@ -63,6 +66,4 @@
 ### 实时赛果（截止2019年5月8日）
 
 <img src="https://github.com/top996/top.996/blob/master/top.jpg" width="330px" height="450px"></img>
-
-
 
