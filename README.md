@@ -19,6 +19,7 @@
   7、任何问题，请联系邮件top996@protonmail.com。
   
 ### 参赛项目站长请加入站长群
+入群后请修改群名称为：项目名-昵称，否则秒踢。
 <img src="https://github.com/top996/top.996/blob/master/group.jpg" width="300px" height="300px"></img>
   
 ### 反996参赛项目列表
